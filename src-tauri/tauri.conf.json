@@ -7,8 +7,8 @@
     "distDir": "../out"
   },
   "package": {
-    "productName": "清华云极速下载器",
-    "version": "0.1.0"
+    "productName": "Tsinghua Cloud Downloader",
+    "version": "0.1.1"
   },
   "tauri": {
     "allowlist": {
